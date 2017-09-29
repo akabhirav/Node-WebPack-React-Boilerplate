@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Remove idea files from repo
+.idea/
